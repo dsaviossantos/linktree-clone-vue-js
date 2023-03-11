@@ -1,0 +1,1 @@
+docker build . -t dsaviossantosdev && docker run -d --name dsaviossantosdev --restart=unless-stopped -p 80:80 dsaviossantosdev
