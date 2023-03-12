@@ -10,37 +10,37 @@ import { ref } from 'vue'
     </div>
     <div class="cards">
       <div class="links">
-        <a href="https://github.dsaviossantos.dev" target="_blank">
+        <a href="https://github.com/dsaviossantos" target="_blank">
           <img alt="Github" style="height: 50px; width: 50px;" src="../assets/github.png" />
           <span>Github</span>
         </a>
       </div>
       <div class="links">
-        <a href="https://linkedin.dsaviossantos.dev" target="_blank">
+        <a href="https://www.linkedin.com/in/dsaviossantos/" target="_blank">
           <img alt="Linkedin" style="height: 50px; width: 50px;" src="../assets/linkedin.png" />
           <span>Linkedin</span>
         </a>
       </div>
       <div class="links">
-        <a href="https://twitch.dsaviosantos.dev" target="_blank">
+        <a href="https://www.twitch.tv/dsaviossantos/" target="_blank">
           <img alt="Twitch" style="height: 50px; width: 50px;" src="../assets/twitch.png" />
           <span>Twitch</span>
         </a>
       </div>
       <div class="links">
-        <a href="yt.dsaviosantos.dev" target="_blank">
+        <a href="https://www.youtube.com/channel/UCwnIcGj6RMYWF86_YIF78Dw" target="_blank">
           <img alt="Youtube" style="height: 50px; width: 50px;" src="../assets/youtube.png" />
           <span>Youtube</span>
         </a>
       </div>
       <div class="links">
-        <a href="https://instagram.dsaviosantos.dev" target="_blank">
+        <a href="https://www.instagram.com/dsaviossantos/" target="_blank">
           <img alt="Instagram" style="height: 50px; width: 50px;" src="../assets/instagram.png" />
           <span>Instagram</span>
         </a>
       </div>
       <div class="links">
-        <a href="https://twitter.dsaviosantos.dev" target="_blank">
+        <a href="https://twitter.com/dsaviossantos" target="_blank">
           <img alt="Twitter" style="height: 50px; width: 50px;" src="../assets/twitter.png" />
           <span>Twitter</span>
         </a>
